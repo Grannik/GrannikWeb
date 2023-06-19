@@ -3,4 +3,4 @@ function fnetlifyGrn(){window.open('https://transcendent-snickerdoodle-ac246c.ne
 function fneocities(){window.open('https://neocities.org/','_blank');}
 function fneocitiesGrn(){window.open('https://grannik.neocities.org/','_blank');}
 function fgithub(){window.open('https://github.com','_blank');}
-function fgithubGrn(){window.open('https://grannik.github.io/Grannikremain.github.io/','_blank');}
+function fgithubGrn(){window.open('https://grannik.github.io/GrannikWeb.github.io/','_blank');}
