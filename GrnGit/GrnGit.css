@@ -1,0 +1,55 @@
+  html
+{
+ background-image: url(../SpaceStreetWM/SpaceStreetWM29.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ .layer{position:absolute;top:16%;left: 8%;cursor:pointer;}
+ #GrnGit{opacity:1.0}
+ div{opacity:0.7;}
+/*---------------------------------------------------------------------------*/
+#ila{background-color:white  ;background-image:url(asciinema.svg);background-size: cover;}
+#ilb{background-color:white  ;background-image:url(codeberg.svg);background-size: cover;}
+#ilc{background-color:white  ;background-image:url(../GrnUnivers/github.svg);background-size: cover;}
+#ild{background-color:Indigo ;background-image:url(gitlab.svg);background-size: cover;}
+#ile{background-color:#333333;background-image:url(sourceforge.svg);background-size: cover;}
+#ilf{background-color:#428bca;background-image:url(notabug.svg);background-size: cover;}
+#ilg{background-color:#f4f5f7;background-image:url(bitbucket.svg     );}
+#ilh{background-color:#292961;background-image:url(framagit.svg      );}
+#ili{background-color:white  ;background-image:url(gitea.svg         );}
+#ilj{background-color:white  ;background-image:url(gogs.svg          );}
+#ilk{background-color:white  ;background-image:url(phacility.svg     );}
+#ill{background-color:white  ;background-image:url(opencollective.svg);}
+/*----------------------------------------------------------------------------*/
+#ial{background-color:white  ;background-image:url(playterm.svg      );}
+#ibl{background-color:#1e1f26;background-image:url(codepen.svg       );}
+#icl{background-color:white  ;background-image:url(jsfiddle.svg      );}
+#idl{background-color:white  ;background-image:url(plnkr.svg         );}
+#iel{background-color:#353535;background-image:url(stackblitz.svg    );}
+#ifl{background-color:#111518;background-image:url(codesandbox.svg   );}
+#igl{background-color:#1c2333;background-image:url(replit.svg        );}
+#ihl{background-color:white  ;background-image:url(pastebin.svg      );}
+#iil{background-color:#ffca4b;background-image:url(agreper.svg       );}
+#ijl{background-color:white  ;background-image:url(steamcommunity.svg);}
+/*----------------------------------------------------------------------------*/
+ #ibr{background-color:#74aa9c;background-image:url(СhatGPT.svg);}
+ #icr{background-color:white;background-image:url(removebg.svg);}
+ #idr{background-color:white;background-image:url(dreamstudio.svg);}
+ #ier{background-color:white;background-image:url(clipdrop.svg);}
+ #ifr{background-color:DimGray;background-image:url(replitI.svg);}
+ #igr{background-color:DimGray;background-image:url(tabnine.svg);}
+ #ihr{background-color:white;background-image:url(futurepedia.svg);}
+ #iir{background-color:white;background-image:url(Dalle2.svg);}
+ #ikr{background-color:#ffde38;background-image:url(justpaste.svg);}
+/*---------------------------------------------------------------------------------*/
+ #ira{background-color:Gray;background-image:url(linktr.svg);}
+ #irb{background-color:#dc461d;background-image:url(askubuntu.svg    );}
+ #irc{background-color:#f8f9f9;background-image:url(stackoverflow.svg);}
+ #ird{background-color:white  ;background-image:url(manjaroru.svg    );}
+ #ire{background-color:white  ;background-image:url(inkscape.svg     );}
+ #irf{background-color:#f2f7f9;background-image:url(stackexchange.svg);}
