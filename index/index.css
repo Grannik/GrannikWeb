@@ -1,0 +1,38 @@
+ html
+{
+ background-image: url(../GrnUnivers/background.png);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ div{opacity:0.7;}
+ #GrnClock{opacity:1.0}
+ #fonCanvas{position:absolute;left:27%;top:5%;width:46%;height:94%;border-radius:50%;opacity:0.6;background-color:Black;}
+ canvas{position:absolute;left:8%;top:4%;}
+/*-------------------------------------------------------------------*/
+ #ila{background-color:#480da6;background-image:url(brave.svg);}
+ #ilb{background-color:#ffffff;background-image:url(vieb.svg);}
+ #ilc{background-color:#7e4798;background-image:url(torproject.svg);}
+ #ild{background-color:#fffaf0;background-image:url(geti2p.svg);}
+ #ile{background-color:#193a76;background-image:url(freenetproject.svg);}
+/*-------------------------------------------------------------------*/
+ #iar{background-color:#ffffff;background-image:url(qubesos.svg);}
+ #ibr{background-color:#ebedf3;background-image:url(whonix.svg);}
+ #icr{background-color:#ffffff;background-image:url(subgraph.svg);}
+/*-------------------------------------------------------------------*/
+ #ira{background-color:#0094f0;background-image:url(ubuntustudio.svg);}
+ #irb{background-color:#fafafa;background-image:url(linuxmint.svg);}
+ #irc{background-color:#d3ccc5;background-image:url(trisquel.svg);}
+ #ird{background-color:#173059;background-image:url(kali.svg);}
+ #ire{background-color:#e7561f;background-image:url(ubuntu.svg);}
+ #irf{background-color:#333333;background-image:url(archlinux.svg);}
+ #irg{background-color:#ffffff;background-image:url(manjaro.svg);}
+ #irh{background-color:#ffffff;background-image:url(debian.svg);}
+ #iri{background-color:#ebedf3;background-image:url(parrotsec.svg);}
+ #irj{background-color:#ebedf3;background-image:url(tinycorelinux.svg);}
+ #irk{background-color:#56347c;background-image:url(tails.svg);}
+ #irl{background-color:#ffffff;background-image:url(antiprism.svg);}
