@@ -1,0 +1,44 @@
+ html
+{
+ background-image: url(../SpaceStreetWM/SpaceStreetWM21.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ #GrnPctVid{opacity:1.0}
+ div{opacity:0.7;}
+/*----------------------------------------------------------------*/
+#ila{background-color:#222222;background-image:url(archive.svg);}
+#ilb{background-color:white  ;background-image:url(mewe.svg );}
+#ilc{background-color:white  ;background-image:url(patreon.svg);}
+#ild{background-color:white  ;background-image:url(flickr.svg);}
+#ile{background-color:white  ;background-image:url(instagram.svg);}
+#ilf{background-color:white  ;background-image:url(pinterest.svg);}
+#ilg{background-color:#2a66bc;background-image:url(linkedin.svg);}
+#ilh{background-color:white  ;background-image:url(livjournal.svg);}
+#ili{background-color:#f06a34;background-image:url(blogger.svg);}
+#ilj{background-color:white  ;background-image:url(gab.svg);}
+#ilk{background-color:#001935;background-image:url(tumblr.svg);}
+#ill{background-color:#2c77c8;background-image:url(openvk.svg);}
+/*---------------------------------------------------------------------------*/
+#ira{background-color:#4175c9;background-image:url(usalif.svg);}
+#irb{background-color:white  ;background-image:url(pixelfed.svg);}
+#irc{background-color:white  ;background-image:url(minds.svg);}
+#ird{background-color:#64afe2;background-image:url(twitter.svg);}
+#ire{background-color:#e60000;background-image:url(gettr.svg);}
+#irf{background-color:#1bb76e;background-image:url(imgur.svg);}
+#irg{background-color:#3a5897;background-image:url(facebook.svg);}
+#irh{background-color:white  ;background-image:url(mastodont.svg);}     
+#iri{background-color:white  ;background-image:url(dribble.svg);}
+#irj{background-color:white  ;background-image:url(telegram.svg);}
+#irk{background-color:#38de56;background-image:url(whatsapp.svg);}
+#irl{background-color:#531755;background-image:url(slack.svg);}
+/*---------------------------------------------------------------------------*/
+#ial{background-color:#ff4500;background-image:url(reddit.svg);}
+/*---------------------------------------------------------------------------*/
+#iar{background-color:#05a081;background-image:url(pexels.svg);}
+#ibr{background-color:#47a847;background-image:url(pixabay.svg);}
