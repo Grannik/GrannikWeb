@@ -1,0 +1,25 @@
+ html
+{
+ background-image: url(../SpaceStreetWM/SpaceStreetWM17.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ #GrnFile{opacity:1.0}
+ div{opacity:0.7;}
+/*----------------------------------------------------------------*/
+#ila{background-color:white  ;background-image:url(cryptgeon.svg);}
+#ilb{background-color:white  ;background-image:url(seatable.svg);}
+#ilc{background-color:#00c086;background-image:url(element.svg);}
+#ild{background-color:white  ;background-image:url(anonfiles.svg);}
+#ile{background-color:white  ;background-image:url(cryptpadfr.svg);}
+#ilf{background-color:white  ;background-image:url(fileio.svg);}
+#ilg{background-color:white  ;background-image:url(wetransfer.svg);}
+#ilh{background-color:#f8c50a;background-image:url(jumbomail.svg);}
+#ili{background-color:#dc286b;background-image:url(dropmefiles.svg);}
+#ilj{background-color:#2e333e;background-image:url(filecloud.svg);}
+#ilk{background-color:white  ;background-image:url(peergos.svg);}
