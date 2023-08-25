@@ -1,0 +1,17 @@
+function farchive(){window.open('https://archive.org/details/@grannik','_blank');}
+function fspotifyRound(){window.open('https://open.spotify.com/user/dqorp6bhteoq7qx9xaaqqc8fv','_blank');}
+function fsoundcloud(){window.open('https://soundcloud.com/user-669870194','_blank');}
+function fvoxworker(){window.open('https://voxworker.com/ru','_blank');}
+function fBandcamp(){window.open('https://bandcamp.com/grannikoleg','_blank');}
+function fdiscogs(){window.open('https://www.discogs.com/ru/user/Grannik','_blank');}
+function ftelegram(){window.open('https://web.telegram.org/','_blank');}
+function fwhatsapp(){window.open('https://web.whatsapp.com/','_blank');}
+function ffunkwhale(){window.open('https://funkwhale.audio/','_blank');}
+function fdupdub(){window.open('https://www.dupdub.com/','_blank');}
+function fhearthis(){window.open('https://hearthis.at/zhdanov-oleg/','_blank');}
+function fpatreon(){window.open('https://www.patreon.com/user?u=49968756','_blank');}
+function ftumblr(){window.open('https://www.tumblr.com/blog/grannik','_blank');}
+function fusalife(){window.open('https://usa.life/Grannik','_blank');}
+function fmastodont(){window.open('https://mas.to/@Granniks','_blank');}
+function fdiscord(){window.open('https://discord.com/channels/808391689113829408/808391690179051593','_blank');}
+function fbuymeacoffee(){window.open('https://www.buymeacoffee.com/Grannik/posts','_blank');}
