@@ -1,0 +1,128 @@
+ html
+{
+ background-image: url(../SpaceStreetWM/SpaceStreetWM18.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ #GrnCSS{opacity:1.0}
+ div{position:absolute;opacity:0.7;}
+/*----------------------------------------------------------------*/
+#ila
+{
+ background:conic-gradient(
+  #800000  0%,
+  #ff0000 15%,
+  #ffff00 30%,
+  #00ff00 45%,
+  #00ffff 60%,
+  #0000ff 75%,
+  #9400D3 90%,
+  #800080 100%
+ );
+}
+ #ilb{background-image:url(../GrnUnivers/112q14.svg);}
+ #ilc{background-image:url(../GrnUnivers/112q14.svg);}
+ #ild{background-image:url(../GrnUnivers/112q14.svg);}
+/*----------------------------------------------------------------*/
+ #ira{background-color:#ffffff;background-image:url(html5CSS.svg);}
+/*----------------------------------------------------------------*/
+ #iar{background-color:#ffffff;background-image:url(html5html.svg);}
+/*----------------------------------------------------------------*/
+ #iWebFarb{opacity:1.0;border-radius:1%;}
+/* ---------------------- квадрат 112 ---------------------------- */
+#iq112css{right:34%;top:16%;width:448px;height:448px;background-color:transparent;display:none;}
+#Q50{top:0px;left:0px;height:200px;width:200px;background-color:Gold;}
+#Q42{top:280px;left:280px;height:168px;width:168px;background-color:Blue;}
+#Q37{top:300px;left:132px;height:148px;width:148px;background-color:SteelBlue;}
+#Q35{top:0px;left:200px;height:140px;width:140px;background-color:DarkOrange;}
+#Q33{top:316px;left:0px;height:132px;width:132px;background-color:MediumOrchid;}
+#Q29{top:200px;left:0px;height:116px;width:116px;background-color:Tomato;}
+#Q27{top:0px;left:340px;height:108px;width:108px;background-color:OrangeRed;}
+#Q25{top:200px;left:116px;height:100px;width:100px;background-color:PaleGreen;}
+#Q24{top:184px;left:352px;height:96px;width:96px;background-color:Red;}
+#Q19{top:108px;left:372px;height:76px;width:76px;background-color:LawnGreen;}
+#Q18{top:208px;left:280px;height:72px;width:72px;background-color:Aquamarine;}
+#Q17{top:140px;left:260px;height:68px;width:68px;background-color:GreenYellow;}
+#Q16{top:236px;left:216px;height:64px;width:64px;background-color:Yellow;}
+#Q15{top:140px;left:200px;height:60px;width:60px;background-color:YellowGreen;}
+#Q11{top:140px;left:328px;height:44px;width:44px;background-color:MediumSeaGreen;}
+ #Q9{top:200px;left:216px;height:36px;width:36px;background-color:GreenYellow;}
+ #Q8{top:108px;left:340px;height:32px;width:32px;background-color:DarkRed;}
+ #Q7{top:208px;left:252px;height:28px;width:28px;background-color:Pink;}
+ #Q6{top:184px;left:328px;height:24px;width:24px;background-color:MediumVioletRed;}
+ #Q4{top:300px;left:116px;height:16px;width:16px;background-color:LightSeaGreen;}
+ #Q2{top:200px;left:252px;height:8px;width:8px;background-color:Cornsilk;}
+/*----------------------------------------------------------------*/
+.square{opacity:1;border-radius:0%;}
+/*----------------------------------------------------------------*/
+#iq112cssCcl{right:34%;top:16%;width:448px;height:448px;background-color:transparent;display:none;}
+#Qo50{top:0px;left:0px;height:200px;width:200px;background:radial-gradient(White,Gold);}
+#Qo42{top:280px;left:280px;height:168px;width:168px;background:radial-gradient(White,Blue);}
+#Qo37{top:300px;left:132px;height:148px;width:148px;background:radial-gradient(White,SteelBlue);}
+#Qo35{top:0px;left:200px;height:140px;width:140px;background:radial-gradient(White,DarkOrange);}
+#Qo33{top:316px;left:0px;height:132px;width:132px;background:radial-gradient(White, MediumOrchid);}
+#Qo29{top:200px;left:0px;height:116px;width:116px;background:radial-gradient(White,Tomato);}
+#Qo27{top:0px;left:340px;height:108px;width:108px;background:radial-gradient(White,OrangeRed);}
+#Qo25{top:200px;left:116px;height:100px;width:100px;background:radial-gradient(White,PaleGreen);}
+#Qo24{top:184px;left:352px;height:96px;width:96px;background:radial-gradient(White,Red);}
+#Qo19{top:108px;left:372px;height:76px;width:76px;background:radial-gradient(White,LawnGreen);}
+#Qo18{top:208px;left:280px;height:72px;width:72px;background:radial-gradient(White,Aquamarine);}
+#Qo17{top:140px;left:260px;height:68px;width:68px;background:radial-gradient(White,GreenYellow);}
+#Qo16{top:236px;left:216px;height:64px;width:64px;background:radial-gradient(White,Yellow);}
+#Qo15{top:140px;left:200px;height:60px;width:60px;background:radial-gradient(White,YellowGreen);}
+#Qo11{top:140px;left:328px;height:44px;width:44px;background:radial-gradient(White,YellowGreen);}
+#Qo9{top:200px;left:216px;height:36px;width:36px;background:radial-gradient(White,GreenYellow);}
+#Qo8{top:108px;left:340px;height:32px;width:32px;background:radial-gradient(White,DarkRed);}
+#Qo7{top:208px;left:252px;height:28px;width:28px;background:radial-gradient(White,Pink);}
+#Qo6{top:184px;left:328px;height:24px;width:24px;background:radial-gradient(White,MediumVioletRed);}
+#Qo4{top:300px;left:116px;height:16px;width:16px;background:radial-gradient(White,LightSeaGreen);}
+#Qo2{top:200px;left:252px;height:8px;width:8px;background:radial-gradient(White,Cornsilk);}
+/* --- динамический квадрат 112  -------------------------------------------------------------*/
+#iq112cssD{right:34%;top:16%;width:448px;height:448px;background-color:transparent;border-radius:0%;display:none;}
+@keyframes Q50 {100%{background:#FDE200;border-radius:0%;}}
+.Q50{animation:Q50 1s forwards 1s;top:0px;left:0px;height:200px;width:200px;border-radius:0%;background-color:transparent;}
+@keyframes Q42 {100%{background:#0000FF;border-radius:0%;}}
+.Q42{animation:Q42 1s forwards 2s;top:280px;left:280px;height:168px;width:168px;border-radius:0%;background-color:transparent;}
+@keyframes Q37 {100%{background:#B5ADCF;border-radius:0%;}}
+.Q37{animation:Q37 1s forwards 3s;top:300px;left:132px;height:148px;width:148px;border-radius:0%;background-color:transparent;}
+@keyframes Q35 {100%{background:#FDAD00;border-radius:0%;}}
+.Q35{animation:Q37 1s forwards 4s;top:0px;left:200px;height:140px;width:140px;border-radius:0%;background-color:transparent;}
+@keyframes Q33 {100%{background:#FDADCF;border-radius:0%;}}
+.Q33{animation:Q35 1s forwards 5s;top:316px;left:0px;height:132px;width:132px;border-radius:0%;background-color:transparent;}
+@keyframes Q29 {100%{background:#FF7F52;border-radius:0%;}}
+.Q29{animation:Q29 1s forwards 6s;top:200px;left:0px;height:116px;width:116px;border-radius:0%;background-color:transparent;}
+@keyframes Q27 {100%{background:#FD6E00;border-radius:0%;}}
+.Q27{animation:Q27 1s forwards 7s;top:0px;left:340px;height:108px;width:108px;border-radius:0%;background-color:transparent;}
+@keyframes Q25 {100%{background:#9EFF7D;border-radius:0%;}}
+.Q25{animation:Q25 1s forwards 8s;top:200px;left:116px;height:100px;width:100px;border-radius:0%;background-color:transparent;}
+@keyframes Q24 {100%{background:#FF0000;border-radius:0%;}}
+.Q24{animation:Q24 1s forwards 9s;top:184px;left:352px;height:96px;width:96px;border-radius:0%;background-color:transparent;}
+@keyframes Q19 {100%{background:#D4FF00;border-radius:0%;}}
+.Q19{animation:Q19 1s forwards 10s;top:108px;left:372px;height:76px;width:76px;border-radius:0%;background-color:transparent;}
+@keyframes Q18 {100%{background:#85FFC2;border-radius:0%;}}
+.Q18{animation:Q18 1s forwards 11s;top:208px;left:280px;height:72px;width:72px;border-radius:0%;background-color:transparent;}
+@keyframes Q17 {100%{background:#85FF00;border-radius:0%;}}
+.Q17{animation:Q17 1s forwards 12s;top:140px;left:260px;height:68px;width:68px;border-radius:0%;background-color:transparent;}
+@keyframes Q16 {100%{background:#FFFF24;border-radius:0%;}}
+.Q16{animation:Q16 1s forwards 13s;top:236px;left:216px;height:64px;width:64px;border-radius:0%;background-color:transparent;}
+@keyframes Q15 {100%{background:#C4CC00;border-radius:0%;}}
+.Q15{animation:Q15 1s forwards 14s;top:140px;left:200px;height:60px;width:60px;border-radius:0%;background-color:transparent;}
+@keyframes Q11 {100%{background:#D400FF;border-radius:0%;}}
+.Q11{animation:Q11 1s forwards 15s;top:140px;left:328px;height:44px;width:44px;border-radius:0%;background-color:transparent;}
+@keyframes Q9 {100%{background:#EBFF00;border-radius:0%;}}
+.Q9{animation:Q9 1s forwards 16s;top:200px;left:216px;height:36px;width:36px;border-radius:0%;background-color:transparent;}
+@keyframes Q8 {100%{background:#DE0000;border-radius:0%;}}
+.Q8{animation:Q8 1s forwards 17s;top:108px;left:340px;height:32px;width:32px;border-radius:0%;background-color:transparent;}
+@keyframes Q7 {100%{background:#FF46FF;border-radius:0%;}}
+.Q7{animation:Q7 1s forwards 18s;top:208px;left:252px;height:28px;width:28px;border-radius:0%;background-color:transparent;}
+@keyframes Q6 {100%{background:#9E3D45;border-radius:0%;}}
+.Q6{animation:Q6 1s forwards 19s;top:184px;left:328px;height:24px;width:24px;border-radius:0%;background-color:transparent;}
+@keyframes Q4 {100%{background:#0073FF;border-radius:0%;}}
+.Q4{animation:Q4 1s forwards 20s;top:300px;left:116px;height:16px;width:16px;border-radius:0%;background-color:transparent;}
+@keyframes Q2 {100%{background:#FFFFD0;border-radius:0%;}}
+.Q2{animation:Q2 1s forwards 21s;top:200px;left:252px;height:8px;width:8px;border-radius:0%;background-color:transparent;}
