@@ -1,0 +1,60 @@
+
+ div{position:absolute;}
+ #IweaponsForUkraineSaveLives
+{
+ top:0%;
+ left:0%;
+ width:100%;
+ height:auto;
+}
+
+ #IGrnPortr0240pBW
+{
+ position:absolute;
+ top:26%;
+ left:2%;
+ width:14%;
+ height:auto;
+}
+
+ #IGrannikTitle
+{
+ top:38%;
+ left:50%;
+ transform: translate(-50%, -50%);
+ color:#808080; /* Цвет текста */
+ font-family: "Times New Roman", Times, serif; /* Выбранный шрифт */
+ font-weight:bold;
+ font-size:210%;
+ line-height:1.5; /* Межстрочный интервал */
+}
+
+ #IGrannikTxtTop
+{
+ top:55%;
+ left:2%;
+ width:92%;
+ height:auto;
+ background-color:#f2f2f2;
+ padding:2%;
+ color:gray; /* Цвет текста */
+ font-family: "Times New Roman", Times, serif; /* Выбранный шрифт */
+ font-size:130%; /* Размер шрифта */
+ line-height:1.5; /* Межстрочный интервал */
+}
+
+ #IGrannikTxt
+{
+ position:absolute;
+ top:78%;
+ left:2%;
+ width:96%;
+ height:auto;
+ background-color:#f2f2f2;
+ padding:2%;
+ color:gray; /* Цвет текста */
+ font-family: "Times New Roman", Times, serif; /* Выбранный шрифт */
+ font-size:100%;
+ line-height:1.5; /* Межстрочный интервал */
+ cursor:pointer;
+}
