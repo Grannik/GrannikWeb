@@ -1,0 +1,32 @@
+ html
+{
+ background-image: url(../SpaceStreetWM/SpaceStreetWM14.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ #GrnMail{opacity:1.0}
+ div{opacity:0.7;}
+/*----------------------------------------------------------------*/
+#ila{background-color:#464656;background-image:url(protonmail.svg);}
+#ilb{background-color:#eeeeee;background-image:url(gmail.svg);}
+#ilc{background-color:white  ;background-image:url(meta.svg);}
+#ild{background-color:#85000f;background-image:url(tutanota.svg);}
+#ile{background-color:white  ;background-image:url(outlook.svg);}
+#ilf{background-color:white  ;background-image:url(mailfence.svg);}
+/*----------------------------------------------------------------*/
+#ira{background-image:url(yopmail.svg);}
+#irb{background-color:#ecd32c;background-image:url(getnada.svg);}
+#irc{background-color:#1285b1;background-image:url(moakt.svg);}
+#ird{background-color:#afdff4;background-image:url(tempail.svg);}
+#ire{background-color:#000000;background-image:url(emailondeck.svg);}
+#irf{background-color:#ecd32c;background-image:url(anonbox.svg);}
+#irg{background-color:#52542c;background-image:url(guerrillamail.svg);}
+#irh{background-color:#24242c;background-image:url(tempmail.svg);}
+#iri{background-color:white  ;background-image:url(10minutemail.svg);}
+#irj{background-color:white  ;background-image:url(mailnesia.svg);}
+#irk{background-color:#0099cc;background-image:url(plustransfer.svg);}
