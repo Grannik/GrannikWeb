@@ -1,0 +1,20 @@
+ html
+{
+ background-image: url(../SpaceStreetWM/SpaceStreetWM19.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ #GrnJS{opacity:1.0}
+ div{opacity:0.7;}
+/*----------------------------------------------------------------*/
+#ila{background-color:;background-image:url(q112r.svg);}
+#ilb{background-color:;background-image:url(q175r.svg);}
+#ilc{background-color:;background-image:url(../GrnUnivers/112q14.svg);}
+#ild{background-color:;background-image:url(../GrnUnivers/112q14.svg);}
+/*----------------------------------------------------------------*/
+ canvas{position:absolute;right:30%;top:7%;display:none;}
